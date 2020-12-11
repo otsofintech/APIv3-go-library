@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	"github.com/go-openapi/strfmt"
-	"github.com/sendinblue/APIv3-go-library/client/smtp"
-	"github.com/sendinblue/APIv3-go-library/models"
+	"github.com/otsofintech/APIv3-go-library/client/smtp"
+	"github.com/otsofintech/APIv3-go-library/models"
 )
 
 func TestSendTransacEmail(t *testing.T) {

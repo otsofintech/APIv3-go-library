@@ -17,7 +17,7 @@ import (
 
 	strfmt "github.com/go-openapi/strfmt"
 
-	models "github.com/sendinblue/APIv3-go-library/models"
+	models "github.com/otsofintech/APIv3-go-library/models"
 )
 
 // NewCreateEmailCampaignParams creates a new CreateEmailCampaignParams object

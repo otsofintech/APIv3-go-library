@@ -9,7 +9,7 @@ import (
 
 	"github.com/davecgh/go-spew/spew"
 	httptransport "github.com/go-openapi/runtime/client"
-	"github.com/sendinblue/APIv3-go-library/client"
+	"github.com/otsofintech/APIv3-go-library/client"
 )
 
 func getAPIClient(tb testing.TB) *client.SendinBlue {

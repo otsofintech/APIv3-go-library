@@ -11,17 +11,17 @@ import (
 
 	strfmt "github.com/go-openapi/strfmt"
 
-	"github.com/sendinblue/APIv3-go-library/client/account"
-	"github.com/sendinblue/APIv3-go-library/client/contacts"
-	"github.com/sendinblue/APIv3-go-library/client/email_campaigns"
-	"github.com/sendinblue/APIv3-go-library/client/operations"
-	"github.com/sendinblue/APIv3-go-library/client/process"
-	"github.com/sendinblue/APIv3-go-library/client/reseller"
-	"github.com/sendinblue/APIv3-go-library/client/senders"
-	"github.com/sendinblue/APIv3-go-library/client/sms_campaigns"
-	"github.com/sendinblue/APIv3-go-library/client/smtp"
-	"github.com/sendinblue/APIv3-go-library/client/transactional_sms"
-	"github.com/sendinblue/APIv3-go-library/client/webhooks"
+	"github.com/otsofintech/APIv3-go-library/client/account"
+	"github.com/otsofintech/APIv3-go-library/client/contacts"
+	"github.com/otsofintech/APIv3-go-library/client/email_campaigns"
+	"github.com/otsofintech/APIv3-go-library/client/operations"
+	"github.com/otsofintech/APIv3-go-library/client/process"
+	"github.com/otsofintech/APIv3-go-library/client/reseller"
+	"github.com/otsofintech/APIv3-go-library/client/senders"
+	"github.com/otsofintech/APIv3-go-library/client/sms_campaigns"
+	"github.com/otsofintech/APIv3-go-library/client/smtp"
+	"github.com/otsofintech/APIv3-go-library/client/transactional_sms"
+	"github.com/otsofintech/APIv3-go-library/client/webhooks"
 )
 
 // Default sendin blue HTTP client.

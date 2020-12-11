@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	"github.com/go-openapi/strfmt"
-	"github.com/sendinblue/APIv3-go-library/client/contacts"
-	"github.com/sendinblue/APIv3-go-library/models"
+	"github.com/otsofintech/APIv3-go-library/client/contacts"
+	"github.com/otsofintech/APIv3-go-library/models"
 )
 
 func TestContacts(t *testing.T) {
